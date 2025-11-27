@@ -3,8 +3,7 @@
   padding: 10px;
   background-color: black;
 }
-
-.light {
+.block .light {
   height: 80px;
   background: white;
   border-radius: 50%;
